@@ -1,0 +1,23 @@
+{
+  "name": "morty",
+  "version": "1.0.0",
+  "description": "FSD Barcelona API call Rick&Morty",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeeksHubsAcademy/rickMortyAPIBCNFSDJunior.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeeksHubsAcademy/rickMortyAPIBCNFSDJunior/issues"
+  },
+  "homepage": "https://github.com/GeeksHubsAcademy/rickMortyAPIBCNFSDJunior#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
